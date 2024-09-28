@@ -27,9 +27,10 @@ Limitation,How does the limitation period apply to claims for minors?,The limita
 Temporarily unable to work,How do I claim SSP?,Statutory Sick Pay is claimed through your employer if you’re too ill to work.,general claim benefits
 Families,What is the Childcare Grant?,The Childcare Grant is available to students in full-time higher education who have children.,general claim benefits
 
+```
 ## USAGE
 
-```
 git clone <https://github.com/KayA-ctrl/uk-benefit-assistant>
 cd uk-benefits-claims-assistant
-```
+
+
