@@ -34,5 +34,3 @@ Families,What is the Childcare Grant?,The Childcare Grant is available to studen
 
 git clone <https://github.com/KayA-ctrl/uk-benefit-assistant>
 cd uk-benefits-claims-assistant
-
-
